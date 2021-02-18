@@ -1,0 +1,16 @@
+br\com\aco\carros\api\SwaggerConfig.class
+br\com\aco\carros\api\CarrosController.class
+br\com\aco\carros\api\exception\Error.class
+br\com\aco\carros\api\exception\ExceptionConfig.class
+br\com\aco\carros\api\security\UserDetailsServiceImpl.class
+br\com\aco\carros\domain\User.class
+br\com\aco\carros\api\exception\ObjectNotFoundException.class
+br\com\aco\carros\api\IndexController.class
+br\com\aco\carros\domain\CarroService.class
+br\com\aco\carros\api\security\SecurityConfig.class
+br\com\aco\carros\domain\dto\CarroDTO.class
+br\com\aco\carros\domain\Carro.class
+br\com\aco\carros\domain\Role.class
+br\com\aco\carros\CarrosApplication.class
+br\com\aco\carros\domain\CarroRepository.class
+br\com\aco\carros\domain\UserRepository.class
