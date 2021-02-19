@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="carros" target="15" />
+      <module name="carros" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
